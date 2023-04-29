@@ -1,0 +1,28 @@
+Proje:Araç Sigorta Prim Hesaplama
+
+     1) Kullanıcıya tarife dönemini seçme imkanınin verildigi;
+     2) Otomobil, kamyon, otobüs veya motosiklet
+        gibi araç tiplerinden birini seçebildigi;
+     3) Otobüs tipi için 18-30 koltuklu ve 31 ve üzeri koltuklu
+        olmak üzere iki seçenek sunuldugu;
+     4) Seçilen araca göre prim hesaplandigi;
+     5) Prim hesaplaması,seçilen aracın tarife dönemine göre
+        belirlendigi ve ona gore fiyat verildigi;
+     6) Hatalı giriş durumunda, kullanıcıya tekrar
+        işlem yapma imkanınin sunuldugu;
+     7) Sonuç başarılıysa, kullanıcıya seçilen aracın tipi,
+        tarife dönemi ve sigorta primi bilgisinin verildigi;
+     8) Kullanıcıya yeni bir işlem yapmak isteyip istemediğinin
+        soruldugu bir application kodunu yaziniz.
+
+      Tarife dönemi:Aralık 2023,                      Haziran 2023
+
+       1.dönemi :Haziran   2023                       2.dönem:Aralık 2023
+                 otomobil: 2000 TL                    otomobil: 2500  TL
+                 kamyon:   3000 TL                    kamyon  : 3500  TL
+                 otobüs: tip1: 4000TL                 otobüs: tip1: 4500 TL
+                         tip2: 5000TL                         tip2: 5500 TL
+                 motosiklet: 1500  TL                 motosiklet: 1750 TL
+
+        Hatalı girişte hesaplama başarısız uyarisı verip tekrar menü gösterilsin.
+        Yeni işlem yapılabilmesi için seçenek sunulsun.
